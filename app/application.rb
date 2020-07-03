@@ -4,5 +4,4 @@ class Application
 
   end
 
-
 end
