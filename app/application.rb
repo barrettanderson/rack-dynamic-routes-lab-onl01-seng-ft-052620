@@ -11,8 +11,6 @@ class Application
 
       resp.write item.name
 
-
-
   end
 
 end
